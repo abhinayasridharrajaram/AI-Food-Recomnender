@@ -1,0 +1,138 @@
+{
+  "timestamp": "20260320_142641",
+  "original_input": "Round, Sweet, Brown Indian ",
+  "working_input": "I am looking for this dish. Round, Sweet, Brown Indian. Image description: Indian gulab jamun dessert featuring round, dark brown fried dumplings made from milk solids and flour, soaked in golden sugar syrup. The dumplings have a glossy, caramelized surface with visible almond slivers as garnish. Soft, spongy texture with sweet syrup coating. Traditional deep-fried sweets in aromatic sugar solution.\n\nKeywords: gulab jamun, Indian dessert, fried dumplings, sugar syrup, milk sweets, round balls, almond garnish, traditional sweets, syrup-soaked, golden syrup",
+  "enhanced_search_query": "gulab jamun indian dessert fried milk dumplings sugar syrup round sweet balls traditional sweets almond garnish syrupsoaked",
+  "image_description": "Indian gulab jamun dessert featuring round, dark brown fried dumplings made from milk solids and flour, soaked in golden sugar syrup. The dumplings have a glossy, caramelized surface with visible almond slivers as garnish. Soft, spongy texture with sweet syrup coating. Traditional deep-fried sweets in aromatic sugar solution.\n\nKeywords: gulab jamun, Indian dessert, fried dumplings, sugar syrup, milk sweets, round balls, almond garnish, traditional sweets, syrup-soaked, golden syrup",
+  "raw_chatbot_response": "{\n  \"recommendation\": \"yes\",\n  \"response\": \"Based on your description of a round, sweet, brown Indian dessert, I recommend Gulab Jamun - soft, spongy milk solid balls soaked in aromatic sugar syrup with cardamom and rose water, garnished with almonds.\"\n}",
+  "parsed_chatbot_response": {
+    "recommendation": "yes",
+    "response": "Based on your description of a round, sweet, brown Indian dessert, I recommend Gulab Jamun - soft, spongy milk solid balls soaked in aromatic sugar syrup with cardamom and rose water, garnished with almonds."
+  },
+  "retrieved_results": [
+    {
+      "page_content": "Gulab jamun is a beloved Indian dessert consisting of soft, spongy balls made from milk solids and semolina flour. These delectable treats have a rich golden-brown hue and a glistening syrupy glaze coating their surface. Garnished with slivers of almonds or pistachios, the jamuns exude an irresistible aroma of rose water, cardamom, and saffron. When you take a bite, the texture is delightfully soft and melt-in-your-mouth, with a burst of sweetness from the sugar syrup infused with aromatic spices like cardamom and rose water. The key ingredients are milk solids, semolina flour, sugar, rose water, cardamom, and saffron, creating a delightful fusion of flavors that tantalize the taste buds., Ingredients: milk solids, sugar, flour, Protein: 5g, Carbs: 30g, Fats: 10g, Calories: 250, Dietary Warnings: Contains dairy, Type: Vegetarian, Rating: 3.0, Price: 6, Serves: 1",
+      "metadata": {
+        "id": "R003M005",
+        "type": "image",
+        "name": "Gulab Jamun",
+        "image_path": "images/R003/R003M005.png",
+        "restaurant_name": "Spice Route",
+        "cuisine": "Indian",
+        "menu_item_name": "Gulab Jamun",
+        "ingredients": "milk solids, sugar, flour",
+        "nutrition": "Protein: 5g, Carbs: 30g, Fats: 10g ",
+        "calories": 250,
+        "dietary_warnings": "Contains dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 3.0,
+        "price": 6,
+        "serves": "1"
+      }
+    },
+    {
+      "page_content": "The image showcases the classic South Indian dish Vada Sambar. The vadas, or savory lentil donuts, are a deep golden brown hue with a crispy exterior and fluffy interior texture. The sambar, a lentil-based vegetable stew, has a vibrant orange-red color and appears richly spiced. Accompanying the vadas and sambar is a creamy coconut chutney flecked with green herbs, providing a cool contrast to the spicy sambar.\n\nThis quintessential vegetarian meal from the Tamil Nadu region offers an explosion of flavors and aromas. The vadas deliver a satisfying crunch that gives way to a soft, savory filling. The sambar broth is infused with a medley of spices like cumin, coriander, and chili peppers, creating a complex and comforting taste. The chutney adds a refreshing coconut note to balance the heat.\n\nKey ingredients include lentils, rice, curry leaves, tamarind, coconut, and an array of aromatic spices like mustard seeds, cumin, and chilies, all combining to create this iconic and flavorful South Indian dish., Ingredients: urad dal, curry leaves, coconut chutney, tamarind, Protein: 12g, Carbs: 30g, Fats: 15g, Calories: 350, Dietary Warnings:  , Type: Vegetarian, Rating: 4.6, Price: 2, Serves: 1-2",
+      "metadata": {
+        "id": "R010M003",
+        "type": "image",
+        "name": "Vada Sambar",
+        "image_path": "images/R010/R010M003.png",
+        "restaurant_name": "Dakshin Delights",
+        "cuisine": "South Indian",
+        "menu_item_name": "Vada Sambar",
+        "ingredients": "urad dal, curry leaves, coconut chutney, tamarind",
+        "nutrition": "Protein: 12g, Carbs: 30g, Fats: 15g ",
+        "calories": 350,
+        "dietary_warnings": " ",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.6,
+        "price": 2,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This classic South Indian dish presents idli, soft and fluffy steamed rice cakes, alongside a vibrant sambar curry. The idlis appear pale and spongy, gently speckled with savory spices. The sambar brims with a rich orange-red hue, its thick lentil-based sauce dotted with vegetables and aromatic spices. The aroma promises a harmonious blend of earthy, tangy, and slightly sweet notes. Key ingredients include rice, lentils, tamarind, curry leaves, mustard seeds, and an array of warming spices like cumin, coriander, and chili peppers. This vegetarian delicacy offers a delightfully comforting taste experience, with the idli's mild flavor complemented by the bold, complex sambar gravy., Ingredients: rice, urad dal, carrots, tomatoes, tamarind, Protein: 8g, Carbs: 40g, Fats: 5g, Calories: 250, Dietary Warnings:  , Type: Vegetarian, Rating: 4.5, Price: 4, Serves: 1-2",
+      "metadata": {
+        "id": "R010M002",
+        "type": "image",
+        "name": "Idli Sambar",
+        "image_path": "images/R010/R010M002.png",
+        "restaurant_name": "Dakshin Delights",
+        "cuisine": "South Indian",
+        "menu_item_name": "Idli Sambar",
+        "ingredients": "rice, urad dal, carrots, tomatoes, tamarind",
+        "nutrition": "Protein: 8g, Carbs: 40g, Fats: 5g ",
+        "calories": 250,
+        "dietary_warnings": " ",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.5,
+        "price": 4,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "Pongal is a savory and comforting South Indian rice dish with a creamy, golden-yellow appearance. The rice grains are cooked to a soft, fluffy texture and mixed with lentils, creating a hearty and filling porridge-like consistency. Flecks of cumin seeds, cashew nuts, raisins, and curry leaves add visual appeal with their contrasting colors and textures. When eaten, the dish offers a delightful blend of flavors - the nuttiness from ghee and cashews, the subtle sweetness from jaggery or raisins, and the warmth of spices like cumin and pepper. Key ingredients include rice, lentils or split peas, ghee, cashew nuts, cumin seeds, black pepper, ginger, and curry leaves, creating a rich, aromatic, and satisfying culinary experience., Ingredients: rice, moong dal, ghee, cashews, cumin, black pepper, Protein: 10g, Carbs: 45g, Fats: 12g, Calories: 400, Dietary Warnings: Contains nuts, dairy, Type: Vegetarian, Rating: 4.8, Price: 5, Serves: 1-2",
+      "metadata": {
+        "id": "R010M004",
+        "type": "image",
+        "name": "Pongal",
+        "image_path": "images/R010/R010M004.png",
+        "restaurant_name": "Dakshin Delights",
+        "cuisine": "South Indian",
+        "menu_item_name": "Pongal",
+        "ingredients": "rice, moong dal, ghee, cashews, cumin, black pepper",
+        "nutrition": "Protein: 10g, Carbs: 45g, Fats: 12g ",
+        "calories": 400,
+        "dietary_warnings": "Contains nuts, dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.8,
+        "price": 5,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This classic Chinese sweet and sour pork dish presents a vibrant array of colors and textures. Succulent pieces of battered and fried pork are coated in a glossy, tangy-sweet sauce that glistens under the light. The pork morsels exhibit a crispy golden-brown exterior giving way to tender, juicy meat inside. Complementing the pork are vibrant bell peppers, their red, green, and yellow hues adding pops of color and crunch. Chunks of pineapple provide bursts of tropical sweetness. The dish exudes an enticing aroma of garlic, ginger, and vinegar mingling with the caramelized sugars of the sauce. Each bite delivers a harmonious balance of sweet, sour, and savory flavors, with the crispy pork providing a satisfying textural contrast to the tender vegetables and juicy pineapple., Ingredients: pork, pineapple, bell peppers, vinegar, sugar, Protein: 18g, Carbs: 20g, Fats: 15g, Calories: 350, Dietary Warnings:  , Type: Non-Vegetarian, Rating: 2.9, Price: 15, Serves: 1-2",
+      "metadata": {
+        "id": "R002M002",
+        "type": "image",
+        "name": "Sweet and Sour Pork",
+        "image_path": "images/R002/R002M002.png",
+        "restaurant_name": "Dragon Palace",
+        "cuisine": "Chinese",
+        "menu_item_name": "Sweet and Sour Pork",
+        "ingredients": "pork, pineapple, bell peppers, vinegar, sugar",
+        "nutrition": "Protein: 18g, Carbs: 20g, Fats: 15g ",
+        "calories": 350,
+        "dietary_warnings": " ",
+        "vegetarian": "Non-Vegetarian",
+        "average_rating": 2.9,
+        "price": 15,
+        "serves": "1-2"
+      }
+    }
+  ],
+  "final_output": [
+    [
+      "**Gulab Jamun** - These perfectly round, golden-brown Indian dessert balls made from milk solids deliver an intensely sweet experience with aromatic rose water and cardamom-infused syrup.\nThe soft, spongy texture and rich sweetness make this traditional Indian treat an ideal match for your preference for round, sweet, and brown Indian desserts."
+    ],
+    {
+      "images/R003/R003M005.png": {
+        "id": "R003M005",
+        "type": "image",
+        "name": "Gulab Jamun",
+        "image_path": "images/R003/R003M005.png",
+        "restaurant_name": "Spice Route",
+        "cuisine": "Indian",
+        "menu_item_name": "Gulab Jamun",
+        "ingredients": "milk solids, sugar, flour",
+        "nutrition": "Protein: 5g, Carbs: 30g, Fats: 10g ",
+        "calories": 250,
+        "dietary_warnings": "Contains dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 3.0,
+        "price": 6,
+        "serves": "1"
+      }
+    }
+  ]
+}

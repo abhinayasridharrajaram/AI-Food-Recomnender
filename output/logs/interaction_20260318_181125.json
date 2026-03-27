@@ -1,0 +1,118 @@
+{
+  "timestamp": "20260318_181125",
+  "original_input": "Pizza",
+  "working_input": "Pizza",
+  "enhanced_search_query": "pizza margherita pepperoni italian flatbread calzone stromboli cheese tomato sauce dough wheat gluten vegetarian meat lovers thin crust deep dish neapolitan sicilian mediterranean bread baked oven",
+  "image_description": "",
+  "raw_chatbot_response": "{\n  \"recommendation\": \"no\",\n  \"response\": \"I see you're interested in pizza! We have several delicious options available including Margherita, pepperoni, vegan, and veggie pizzas. To help me recommend the perfect pizza for you, could you let me know your preferences? For example, do you prefer vegetarian or non-vegetarian options, have any dietary restrictions, or are you looking for something with specific toppings?\"\n}",
+  "parsed_chatbot_response": {
+    "recommendation": "no",
+    "response": "I see you're interested in pizza! We have several delicious options available including Margherita, pepperoni, vegan, and veggie pizzas. To help me recommend the perfect pizza for you, could you let me know your preferences? For example, do you prefer vegetarian or non-vegetarian options, have any dietary restrictions, or are you looking for something with specific toppings?"
+  },
+  "retrieved_results": [
+    {
+      "page_content": "The classic Margherita pizza presents a vibrant and appetizing display. The thin, lightly charred crust provides a crisp foundation for the fresh toppings. Bright red tomato sauce is spread evenly across the surface, punctuated by pools of melted, creamy mozzarella cheese. Verdant green basil leaves add a pop of color and herbaceous aroma. The simple combination of quality ingredients creates a harmonious blend of flavors - the tangy tomatoes, rich cheese, and fragrant basil meld together in each savory bite. This quintessential Neapolitan dish offers a delightfully rustic yet refined taste experience, capturing the essence of traditional Italian cuisine with its straightforward and satisfying preparation., Ingredients: tomatoes, mozzarella cheese, basil, olive oil, flour, yeast, Protein: 12g, Carbs: 30g, Fats: 15g, Calories: 350, Dietary Warnings: Contains gluten, dairy, Type: Vegetarian, Rating: 4.5, Price: 12, Serves: 1-2",
+      "metadata": {
+        "id": "R006M001",
+        "type": "image",
+        "name": "Margherita Pizza",
+        "image_path": "images/R006/R006M001.png",
+        "restaurant_name": "Pizza Paradise",
+        "cuisine": "Pizza",
+        "menu_item_name": "Margherita Pizza",
+        "ingredients": "tomatoes, mozzarella cheese, basil, olive oil, flour, yeast",
+        "nutrition": "Protein: 12g, Carbs: 30g, Fats: 15g ",
+        "calories": 350,
+        "dietary_warnings": "Contains gluten, dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.5,
+        "price": 12,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This classic Margherita pizza showcases vibrant colors and rustic textures. The crust is golden-brown with charred blistered edges, providing a pleasing crunch. Melted pools of fresh mozzarella cheese mingle with bright red tomato sauce, dotted with basil leaves. The aroma hints at garlic, olive oil, and the sweet fragrance of tomatoes and herbs. Each bite delivers a harmonious blend of flavors - the tangy tomato sauce, creamy cheese, and herbaceous basil create a delightfully balanced taste experience that captures the essence of traditional Neapolitan pizza. The key ingredients are a simple yet flavorful combination of crushed tomatoes, fresh mozzarella, basil, and a perfectly baked pizza dough., Ingredients: tomatoes, mozzarella cheese, basil, olive oil, flour, yeast, Protein: 12g, Carbs: 30g, Fats: 15g, Calories: 350, Dietary Warnings:  , Type: Vegetarian, Rating: 4.5, Price: 12, Serves: 1-2",
+      "metadata": {
+        "id": "R001M001",
+        "type": "image",
+        "name": "Margherita Pizza",
+        "image_path": "images/R001/R001M001.png",
+        "restaurant_name": "La Bella Italia",
+        "cuisine": "Italian",
+        "menu_item_name": "Margherita Pizza",
+        "ingredients": "tomatoes, mozzarella cheese, basil, olive oil, flour, yeast",
+        "nutrition": "Protein: 12g, Carbs: 30g, Fats: 15g ",
+        "calories": 350,
+        "dietary_warnings": " ",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.5,
+        "price": 12,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This classic pepperoni pizza is a vibrant and mouthwatering sight. The golden-brown crust is adorned with a generous layer of bright red tomato sauce, glistening with olive oil. Evenly distributed across the surface are thin slices of spicy pepperoni, their edges crisped to perfection, releasing an enticing aroma of cured meats and savory spices. Melted mozzarella cheese blankets the pizza, forming stretchy strands that tempt the taste buds. This quintessential Italian-American dish offers a harmonious blend of flavors – the tanginess of the tomato sauce, the richness of the cheese, and the salty kick of the pepperoni, all complemented by the crispy yet chewy crust. A true delight for the senses, this pepperoni pizza promises a satisfying and indulgent dining experience., Ingredients: pepperoni, mozzarella cheese, tomato sauce, flour, Protein: 15g, Carbs: 35g, Fats: 20g, Calories: 400, Dietary Warnings: Contains gluten, dairy, Type: Non-Vegetarian, Rating: 4.1, Price: 14, Serves: 1-2",
+      "metadata": {
+        "id": "R006M002",
+        "type": "image",
+        "name": "Pepperoni Pizza",
+        "image_path": "images/R006/R006M002.png",
+        "restaurant_name": "Pizza Paradise",
+        "cuisine": "Pizza",
+        "menu_item_name": "Pepperoni Pizza",
+        "ingredients": "pepperoni, mozzarella cheese, tomato sauce, flour",
+        "nutrition": "Protein: 15g, Carbs: 35g, Fats: 20g ",
+        "calories": 400,
+        "dietary_warnings": "Contains gluten, dairy",
+        "vegetarian": "Non-Vegetarian",
+        "average_rating": 4.1,
+        "price": 14,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This vegan pizza presents a vibrant and appetizing array of colors and textures. The crispy, golden-brown crust is adorned with a medley of fresh toppings. Juicy cherry tomatoes, their skins blistered from the oven's heat, add pops of bright red. Slices of flavorful plant-based sausage provide a savory contrast. Vibrant green basil leaves lend an herbaceous aroma, while plump black olives contribute a briny tang. The melted vegan cheese creates a creamy, stretchy texture that ties all the flavors together. This Italian-inspired dish offers a delightful combination of flavors and textures, delivering a satisfying and indulgent plant-based dining experience., Ingredients: dough, vegan cheese, vegan soya sausage, onions, bell peppers, Protein: 12g, Carbs: 35g, Fats: 10g, Calories: 320, Dietary Warnings: Contains gluten, Type: Vegetarian, Rating: 4.5, Price: 13, Serves: 1-2",
+      "metadata": {
+        "id": "R007M005",
+        "type": "image",
+        "name": "Vegan Pizza",
+        "image_path": "images/R007/R007M005.png",
+        "restaurant_name": "Green Leaf",
+        "cuisine": "Vegan",
+        "menu_item_name": "Vegan Pizza",
+        "ingredients": "dough, vegan cheese, vegan soya sausage, onions, bell peppers",
+        "nutrition": "Protein: 12g, Carbs: 35g, Fats: 10g ",
+        "calories": 320,
+        "dietary_warnings": "Contains gluten",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.5,
+        "price": 13,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This vibrant veggie pizza is a feast for the eyes and taste buds alike. The crisp, golden-brown crust provides a sturdy foundation for a colorful array of fresh toppings. Bright red tomatoes, verdant green bell peppers, and slices of purple onion add vivid pops of color and texture. Mushrooms lend an earthy umami flavor, while briny black olives contribute a salty tang. Melted cheese forms a creamy, gooey blanket that ties all the flavors together. This Italian-inspired dish tantalizes the senses with its harmonious blend of savory, tangy, and slightly sweet notes. Each bite delivers a satisfying crunch followed by an explosion of flavors that linger delightfully on the palate, making this veggie pizza a truly craveable indulgence., Ingredients: bell peppers, onions, mushrooms, olives, mozzarella cheese, flour, Protein: 12g, Carbs: 40g, Fats: 12g, Calories: 360, Dietary Warnings: Contains gluten, dairy, Type: Vegetarian, Rating: 4.9, Price: 11, Serves: 1-2",
+      "metadata": {
+        "id": "R006M004",
+        "type": "image",
+        "name": "Veggie Pizza",
+        "image_path": "images/R006/R006M004.png",
+        "restaurant_name": "Pizza Paradise",
+        "cuisine": "Pizza",
+        "menu_item_name": "Veggie Pizza",
+        "ingredients": "bell peppers, onions, mushrooms, olives, mozzarella cheese, flour",
+        "nutrition": "Protein: 12g, Carbs: 40g, Fats: 12g ",
+        "calories": 360,
+        "dietary_warnings": "Contains gluten, dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.9,
+        "price": 11,
+        "serves": "1-2"
+      }
+    }
+  ],
+  "final_output": [
+    "I see you're interested in pizza! We have several delicious options available including Margherita, pepperoni, vegan, and veggie pizzas. To help me recommend the perfect pizza for you, could you let me know your preferences? For example, do you prefer vegetarian or non-vegetarian options, have any dietary restrictions, or are you looking for something with specific toppings?",
+    []
+  ]
+}

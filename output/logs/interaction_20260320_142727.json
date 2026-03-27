@@ -1,0 +1,138 @@
+{
+  "timestamp": "20260320_142727",
+  "original_input": "Paneer Vegetarian",
+  "working_input": "Paneer Vegetarian",
+  "enhanced_search_query": "paneer vegetarian indian cottage cheese curry palak matar tikka masala dairy protein meatfree lactovegetarian",
+  "image_description": "",
+  "raw_chatbot_response": "{\n  \"recommendation\": \"yes\",\n  \"response\": \"Based on your preference for paneer vegetarian dishes, I recommend Palak Paneer - a vibrant Indian curry featuring golden-fried paneer cubes in a rich, creamy spinach gravy with aromatic spices, offering a perfect blend of mild richness and earthy flavors.\"\n}",
+  "parsed_chatbot_response": {
+    "recommendation": "yes",
+    "response": "Based on your preference for paneer vegetarian dishes, I recommend Palak Paneer - a vibrant Indian curry featuring golden-fried paneer cubes in a rich, creamy spinach gravy with aromatic spices, offering a perfect blend of mild richness and earthy flavors."
+  },
+  "retrieved_results": [
+    {
+      "page_content": "Palak Paneer is a vibrant and savory Indian dish featuring a rich spinach curry with cubes of fresh paneer (Indian cottage cheese) nestled throughout. The curry has a striking green hue from the pureed spinach, with flecks of spices adding depth of color. The paneer cubes are golden-fried, providing a delightful contrast in texture against the velvety spinach gravy. Aromatic spices like cumin, coriander, and chili lend warmth and complexity to the flavors. The dish offers a harmonious blend of creamy and tangy notes, with the paneer's mild richness complementing the earthy spinach. Fresh ingredients like spinach, tomatoes, onions, garlic, and ginger form the backbone of this wholesome and flavorful vegetarian curry., Ingredients: spinach, paneer, cream, spices, Protein: 15g, Carbs: 10g, Fats: 20g, Calories: 350, Dietary Warnings: Contains dairy, Type: Vegetarian, Rating: 3.8, Price: 6, Serves: 2-3",
+      "metadata": {
+        "id": "R003M002",
+        "type": "image",
+        "name": "Palak Paneer",
+        "image_path": "images/R003/R003M002.png",
+        "restaurant_name": "Spice Route",
+        "cuisine": "Indian",
+        "menu_item_name": "Palak Paneer",
+        "ingredients": "spinach, paneer, cream, spices",
+        "nutrition": "Protein: 15g, Carbs: 10g, Fats: 20g ",
+        "calories": 350,
+        "dietary_warnings": "Contains dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 3.8,
+        "price": 6,
+        "serves": "2-3"
+      }
+    },
+    {
+      "page_content": "This classic South Indian dish presents idli, soft and fluffy steamed rice cakes, alongside a vibrant sambar curry. The idlis appear pale and spongy, gently speckled with savory spices. The sambar brims with a rich orange-red hue, its thick lentil-based sauce dotted with vegetables and aromatic spices. The aroma promises a harmonious blend of earthy, tangy, and slightly sweet notes. Key ingredients include rice, lentils, tamarind, curry leaves, mustard seeds, and an array of warming spices like cumin, coriander, and chili peppers. This vegetarian delicacy offers a delightfully comforting taste experience, with the idli's mild flavor complemented by the bold, complex sambar gravy., Ingredients: rice, urad dal, carrots, tomatoes, tamarind, Protein: 8g, Carbs: 40g, Fats: 5g, Calories: 250, Dietary Warnings:  , Type: Vegetarian, Rating: 4.5, Price: 4, Serves: 1-2",
+      "metadata": {
+        "id": "R010M002",
+        "type": "image",
+        "name": "Idli Sambar",
+        "image_path": "images/R010/R010M002.png",
+        "restaurant_name": "Dakshin Delights",
+        "cuisine": "South Indian",
+        "menu_item_name": "Idli Sambar",
+        "ingredients": "rice, urad dal, carrots, tomatoes, tamarind",
+        "nutrition": "Protein: 8g, Carbs: 40g, Fats: 5g ",
+        "calories": 250,
+        "dietary_warnings": " ",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.5,
+        "price": 4,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "The image showcases the classic South Indian dish Vada Sambar. The vadas, or savory lentil donuts, are a deep golden brown hue with a crispy exterior and fluffy interior texture. The sambar, a lentil-based vegetable stew, has a vibrant orange-red color and appears richly spiced. Accompanying the vadas and sambar is a creamy coconut chutney flecked with green herbs, providing a cool contrast to the spicy sambar.\n\nThis quintessential vegetarian meal from the Tamil Nadu region offers an explosion of flavors and aromas. The vadas deliver a satisfying crunch that gives way to a soft, savory filling. The sambar broth is infused with a medley of spices like cumin, coriander, and chili peppers, creating a complex and comforting taste. The chutney adds a refreshing coconut note to balance the heat.\n\nKey ingredients include lentils, rice, curry leaves, tamarind, coconut, and an array of aromatic spices like mustard seeds, cumin, and chilies, all combining to create this iconic and flavorful South Indian dish., Ingredients: urad dal, curry leaves, coconut chutney, tamarind, Protein: 12g, Carbs: 30g, Fats: 15g, Calories: 350, Dietary Warnings:  , Type: Vegetarian, Rating: 4.6, Price: 2, Serves: 1-2",
+      "metadata": {
+        "id": "R010M003",
+        "type": "image",
+        "name": "Vada Sambar",
+        "image_path": "images/R010/R010M003.png",
+        "restaurant_name": "Dakshin Delights",
+        "cuisine": "South Indian",
+        "menu_item_name": "Vada Sambar",
+        "ingredients": "urad dal, curry leaves, coconut chutney, tamarind",
+        "nutrition": "Protein: 12g, Carbs: 30g, Fats: 15g ",
+        "calories": 350,
+        "dietary_warnings": " ",
+        "vegetarian": "Vegetarian",
+        "average_rating": 4.6,
+        "price": 2,
+        "serves": "1-2"
+      }
+    },
+    {
+      "page_content": "This aromatic Biryani dish presents a vibrant array of colors and textures. Tender pieces of chicken are seared to a golden-brown hue, nestled atop a bed of long-grain rice infused with saffron, creating a warm yellow tint. The rice is perfectly cooked, with each grain remaining distinct yet moist. Fragrant spices like star anise and cinnamon sticks peek through, adding depth of flavor. Garnished with fresh cilantro and caramelized onions, the dish offers a harmonious blend of savory and subtly sweet notes. Biting into this South Asian delicacy unveils a burst of rich spices, balanced by the succulent chicken and fluffy rice grains that melt in the mouth, leaving a lingering warmth and satisfaction., Ingredients: rice, vegetables, chicken, spices, Protein: 20g, Carbs: 50g, Fats: 15g, Calories: 400, Dietary Warnings:  , Type: Non-Vegetarian, Rating: 4.6, Price: 5, Serves: 2-4",
+      "metadata": {
+        "id": "R003M003",
+        "type": "image",
+        "name": "Biryani",
+        "image_path": "images/R003/R003M003.png",
+        "restaurant_name": "Spice Route",
+        "cuisine": "Indian",
+        "menu_item_name": "Biryani",
+        "ingredients": "rice, vegetables, chicken, spices",
+        "nutrition": "Protein: 20g, Carbs: 50g, Fats: 15g ",
+        "calories": 400,
+        "dietary_warnings": " ",
+        "vegetarian": "Non-Vegetarian",
+        "average_rating": 4.6,
+        "price": 5,
+        "serves": "2-4"
+      }
+    },
+    {
+      "page_content": "This vegan Caesar salad presents a vibrant array of fresh greens and crispy croutons. The lush romaine lettuce leaves are coated in a creamy, plant-based dressing, providing a rich and tangy flavor profile reminiscent of the classic Caesar. Golden-brown croutons add a satisfying crunch, complementing the tender greens. The salad showcases a harmonious blend of flavors and textures, offering a delightful and refreshing meatless twist on the beloved Caesar salad. Key ingredients include crisp romaine lettuce, a vegan Caesar dressing made from plant-based alternatives like cashews or tofu, crunchy croutons, and perhaps some vegan parmesan or nutritional yeast for an umami boost., Ingredients: romaine lettuce, vegan dressing, croutons, almond parmesan, Protein: 5g, Carbs: 15g, Fats: 10g, Calories: 180, Dietary Warnings:  , Type: Vegetarian, Rating: 3.8, Price: 10, Serves: 1",
+      "metadata": {
+        "id": "R007M001",
+        "type": "image",
+        "name": "Vegan Caesar Salad",
+        "image_path": "images/R007/R007M001.png",
+        "restaurant_name": "Green Leaf",
+        "cuisine": "Vegan",
+        "menu_item_name": "Vegan Caesar Salad",
+        "ingredients": "romaine lettuce, vegan dressing, croutons, almond parmesan",
+        "nutrition": "Protein: 5g, Carbs: 15g, Fats: 10g ",
+        "calories": 180,
+        "dietary_warnings": " ",
+        "vegetarian": "Vegetarian",
+        "average_rating": 3.8,
+        "price": 10,
+        "serves": "1"
+      }
+    }
+  ],
+  "final_output": [
+    [
+      "**Palak Paneer** is a classic Indian vegetarian curry featuring golden-fried paneer cubes in a vibrant spinach gravy with aromatic spices like cumin and coriander.\nThis protein-rich dish (15g protein) perfectly satisfies your paneer preference while delivering wholesome vegetarian nutrition with creamy, earthy flavors."
+    ],
+    {
+      "images/R003/R003M002.png": {
+        "id": "R003M002",
+        "type": "image",
+        "name": "Palak Paneer",
+        "image_path": "images/R003/R003M002.png",
+        "restaurant_name": "Spice Route",
+        "cuisine": "Indian",
+        "menu_item_name": "Palak Paneer",
+        "ingredients": "spinach, paneer, cream, spices",
+        "nutrition": "Protein: 15g, Carbs: 10g, Fats: 20g ",
+        "calories": 350,
+        "dietary_warnings": "Contains dairy",
+        "vegetarian": "Vegetarian",
+        "average_rating": 3.8,
+        "price": 6,
+        "serves": "2-3"
+      }
+    }
+  ]
+}
